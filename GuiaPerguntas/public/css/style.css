@@ -1,0 +1,24 @@
+body {
+    background-color:#3e4246;
+    color: #fff;
+}
+
+.card-body, .card-header h3{
+    color: #000;
+}
+
+#formulario-pergunta {
+    margin-top: 5vh;
+}
+
+h1, h2, h3, h4, h5 {
+    color: #DADADA;
+}
+
+.navbar {
+    padding: 5px;
+}
+
+/* p {
+    color: #fff;
+} */
